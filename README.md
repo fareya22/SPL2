@@ -1,1 +1,1 @@
-# SPL2
+This is a software project
